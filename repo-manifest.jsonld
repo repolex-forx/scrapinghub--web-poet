@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/web-poet/commit/b3cc347952b9bc6cf534e44543b789d2f5f2fafb",
       "git:hexsha": "b3cc347952b9bc6cf534e44543b789d2f5f2fafb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/web-poet/commit/5124e4eed812eb1c4e431dd87310461d0f028f3f",
